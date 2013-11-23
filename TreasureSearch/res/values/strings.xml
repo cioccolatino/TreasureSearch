@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TreasureSearchActivity!</string>
+    <string name="app_name">GoogleMap宝探し</string>
+    <string name="google_map_key">0Foo6luD8GPwysAK4BHFSJOnuox_dKTJEwRNJVA</string>
+    <string name="google_map_key_debug1">0Foo6luD8GPzTw_oDcQE_DFGwBi_V5Kcpa-i21g</string>
+    <string name="google_map_key_debug2">0Foo6luD8GPy-5CWVqD4u8rEgCIKSWxNQHncOVQ</string>
+    <string name="yahoo_appid">a.l6hkmxg65zslg_sQihsJ_b8J_eesIKX_rmYeMrlE0PmCg4sP3GmTu9NmV4tQ2lk2CG</string>
+    <string name="help_title">「GoogleMap宝探し」について</string>
+    <string name="help_text">
+日本地図上のどこかにある宝箱を見つけ出してください。\n
+\n
+・宝箱は地図を最大レベルまで拡大しないと見ることができません。\n
+・宝箱の「捜索」のためには、地図上の地点を長押しタップします。長押しタップした捜索地点にフラッグが立ち、そこから宝箱までの距離が分かります。\n
+　（後からフラッグをタップしても距離が表示されます。）\n
+・宝箱を見つけてタップするとゲーム終了です。\n
+・できるだけ少ない捜索回数で宝箱を見つけてください。\n
+\n
+※このアプリケーションでは、日本国内の陸地の判定に「YahooリバースジオコーダAPI」、2点間の距離の測定に「LatLng2Distance API」(http://lab.uribou.net/ll2dist/)を使用しています。\n
+\n
+2011.9.11 不具合修正
+    </string>
+</resources>
